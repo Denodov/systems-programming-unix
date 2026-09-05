@@ -1,0 +1,5 @@
+Pest Observation Report
+The breakdown of pests observed:
+    Level 1 pests count - 4
+    Level 2 pests count - 10
+    Level 3 pests count - 5

@@ -1,0 +1,14 @@
+# Compiled executables
+bin/
+a.out
+
+# Object files and libraries
+*.o
+*.a
+
+# Debug files
+*.core
+core
+
+# Editor files
+*.swp

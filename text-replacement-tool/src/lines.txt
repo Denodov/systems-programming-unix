@@ -1,0 +1,6 @@
+This is a line,     line 1
+XYZ is another,     line 2
+Yet another one,    line 3
+So there, XYZ...    line 4
+Snoopy is a dog     line 5
+Cats are people too line 6
